@@ -1,0 +1,6 @@
+{
+  "name": "FMCG Inventory Intelligence",
+  "description": "Smart Inventory & Supply Chain Management System featuring stock items, FEFO batch tracking, barcode scanning, low-stock alerts, procurement PO workflows, and interactive DBMS SQL intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
